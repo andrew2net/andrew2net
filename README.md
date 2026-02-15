@@ -16,6 +16,7 @@ Docker · AWS (EC2, RDS, S3) · Git · CI/CD
 
 ### 📦 Notable open-source work
 
+- **[Rails Schema](https://github.com/andrew2net/rails-schema)** — A Ruby gem for generating interactive database schema diagrams for Rails applications. Visualize complex DB structures with ease.
 - **[Relaton](https://github.com/relaton/relaton)** — A unified bibliographic structure for all major standards development organizations. I lead development of the core indexing system, ETL pipelines, and metadata gems.
 - **[Portus REST API](https://github.com/SUSE/Portus/pull/1299)** — Created the full REST API for the SUSE open-source Docker registry authorization service.
 - **[Portus OAuth/OpenID](https://github.com/SUSE/Portus/pull/1300)** — Added OAuth social login support via omniauth.
