@@ -25,8 +25,8 @@ Docker · AWS (EC2, RDS, S3) · Git · CI/CD
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrew2net&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrew2net&theme=default" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrew2net&show_icons=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew2net&layout=compact" alt="Top languages" height="165" />
 </p>
 
 ### 🏆 Highlights
