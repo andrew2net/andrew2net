@@ -22,13 +22,6 @@ Docker · AWS (EC2, RDS, S3) · Git · CI/CD
 - **[Portus REST API](https://github.com/SUSE/Portus/pull/1299)** — Created the full REST API for the SUSE open-source Docker registry authorization service.
 - **[Portus OAuth/OpenID](https://github.com/SUSE/Portus/pull/1300)** — Added OAuth social login support via omniauth.
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrew2net&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrew2net&theme=default" alt="Top languages" height="165" />
-</p>
-
 ### 🏆 Highlights
 
 - **10x performance improvement** on bulk route updates at GlobalLogic (Cisco/Meraki dashboard)
